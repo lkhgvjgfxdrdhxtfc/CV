@@ -435,13 +435,13 @@ justify-content: space-around;
 display: flex;
   flex-direction: column;
 align-items: center;
-	width: 90%;
+	width: 500px;
 
 }
 
 .project {
-width: 85%;
-height: 25vh;
+width: 400px;
+height: 200px;
   border: 1px solid grey;
 text-align: center;
 border-radius: 10px;
