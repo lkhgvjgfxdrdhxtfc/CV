@@ -315,7 +315,7 @@ flex-wrap: wrap;
 .nav-item {
  display: flex;
  justify-content: center;
-  font-size: 28px;
+  font-size: 30px;
 font-weight: bold;
 }
 
@@ -378,7 +378,7 @@ h3, h4 {
 margin-top: 0px;
 margin-bottom: 5px;
 padding-left: 3px;
-/font-size: 14px;
+font-size: 26px;
 }
 
 h3 {
@@ -387,20 +387,20 @@ margin-bottom: 5px;
 background-color: #800080;
 color: #fef3cd;
 text-decoration: underline;
-/font-size: 16px;
+font-size: 28px;
 }
 
 
 ul {
 padding: 0; /* Убираем поля */
-margin-left: 20px; /* Отступ слева */
+margin-left: 26px; /* Отступ слева */
 margin-top: 0px;
 margin-bottom: 5px;
 }
 
 li {
 margin-bottom: 5px;
-font-size: 24px;
+font-size: 26px;
 }
 
 
@@ -408,7 +408,7 @@ table, th, td {
   border-collapse: collapse;
   border: 1px solid rgb(140 140 140);
   font-family: 'Arial', 'Verdana', sans-serif;
-  font-size: 24px;
+  font-size: 26px;
   letter-spacing: 1px;
 }
 
@@ -419,7 +419,7 @@ font-weight: bold;
 p {
 margin: 5px 0px 10px 10px;
   font-family: 'Arial', 'Verdana', sans-serif;
-  font-size: 24px;
+  font-size: 26px;
 }
 
 
@@ -435,12 +435,13 @@ justify-content: space-around;
 display: flex;
   flex-direction: column;
 align-items: center;
+	width: 85%;
 
 }
 
 .project {
-width: 110px;
-height: 60px;
+width: 80%;
+height: auto;
   border: 1px solid grey;
 text-align: center;
 border-radius: 10px;
