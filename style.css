@@ -456,8 +456,8 @@ margin-bottom: 3px;
 background-image: url('assets/travel.png');
 /background-size: contain;
 background-repeat: no-repeat;
-/background-size: cover;
-background-size: 100% auto;
+background-size: cover;
+/background-size: 100% auto;
 background-position: center;
 }
 
@@ -465,8 +465,8 @@ background-position: center;
 background-image: url('assets/momentum.png');
 /background-size: contain;
 background-repeat: no-repeat;
-/background-size: cover;
-	background-size: 100% auto;
+background-size: cover;
+/background-size: 100% auto;
 background-position: center;
 }
 
@@ -474,8 +474,8 @@ background-position: center;
 background-image: url('assets/bayan.png');
 /background-size: contain;
 background-repeat: no-repeat;
-/background-size: cover;
-	background-size: 100% auto;
+background-size: cover;
+/background-size: 100% auto;
 background-position: center;
 }
 
@@ -483,8 +483,8 @@ background-position: center;
 background-image: url('assets/shelter.png');
 /background-size: contain;
 background-repeat: no-repeat;
-/background-size: cover;
-	background-size: 100% auto;
+background-size: cover;
+/background-size: 100% auto;
 background-position: center;
 }
 
@@ -492,8 +492,8 @@ background-position: center;
 background-image: url('assets/keyboard.png');
 /background-size: contain;
 background-repeat: no-repeat;
-/background-size: cover;
-	background-size: 100% auto;
+background-size: cover;
+/background-size: 100% auto;
 background-position: center;
 }
 
