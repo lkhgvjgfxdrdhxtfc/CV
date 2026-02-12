@@ -442,9 +442,9 @@ align-items: center;
 }
 
 .project {
-width: 80vw;
+width: 75vw;
 height: 0;
-padding-top: 50%;
+padding-top: 55%;
   border: 1px solid grey;
 text-align: center;
 border-radius: 10px;
