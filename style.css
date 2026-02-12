@@ -442,8 +442,9 @@ align-items: center;
 }
 
 .project {
-width: 500px;
-height: 275px;
+width: 85%;
+height: 0;
+padding-top: 83%;
   border: 1px solid grey;
 text-align: center;
 border-radius: 10px;
