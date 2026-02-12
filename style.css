@@ -454,49 +454,49 @@ margin-bottom: 3px;
 
 .travel {
 background-image: url('assets/travel.png');
-background-size: contain;
+/background-size: contain;
 background-repeat: no-repeat;
-/background-size: cover;
+background-size: cover;
 background-position: center;
 }
 
 .momentum {
 background-image: url('assets/momentum.png');
-background-size: contain;
+/background-size: contain;
 background-repeat: no-repeat;
-/background-size: cover;
+background-size: cover;
 background-position: center;
 }
 
 .accordion {
 background-image: url('assets/bayan.png');
-background-size: contain;
+/background-size: contain;
 background-repeat: no-repeat;
-/background-size: cover;
+background-size: cover;
 background-position: center;
 }
 
 .shelter {
 background-image: url('assets/shelter.png');
-background-size: contain;
+/background-size: contain;
 background-repeat: no-repeat;
-/background-size: cover;
+background-size: cover;
 background-position: center;
 }
 
 .keyboard {
 background-image: url('assets/keyboard.png');
-background-size: contain;
+/background-size: contain;
 background-repeat: no-repeat;
-/background-size: cover;
+background-size: cover;
 background-position: center;
 }
 
 .map {
 background-image: url('assets/map.png');
-background-size: contain;
+/background-size: contain;
 background-repeat: no-repeat;
-/background-size: cover;
+background-size: cover;
 background-position: center;
 }
 
