@@ -72,7 +72,6 @@ document.getElementById('professionalskills').innerHTML = "Профессион�
 document.getElementById('strongsuit').innerHTML = "Сильные стороны";
 document.getElementById('achievements').innerHTML = "Достижения";
 
-document.getElementById('age').innerHTML = "Возраст: 39 лет";
 document.getElementById('email').innerHTML = `Эл.почта: <a href="mailto:my-wrk-ml@mail.ru">my-wrk-ml@mail.ru</a>`;
 
 document.getElementById('higher-education').innerHTML = "Высшее образование:";
@@ -197,7 +196,6 @@ document.getElementById('professionalskills').innerHTML = "Professional skills";
 document.getElementById('strongsuit').innerHTML = "Strong suit";
 document.getElementById('achievements').innerHTML = "Achievements";
 
-document.getElementById('age').innerHTML = "Age: 39 years";
 document.getElementById('email').innerHTML = `E-mail: <a href="mailto:my-wrk-ml@mail.ru">my-wrk-ml@mail.ru</a>`;
 
 document.getElementById('higher-education').innerHTML = "Higher education:";
@@ -329,7 +327,6 @@ document.getElementById('professionalskills').innerHTML = "Профессион�
 document.getElementById('strongsuit').innerHTML = "Сильные стороны";
 document.getElementById('achievements').innerHTML = "Достижения";
 
-document.getElementById('age').innerHTML = "Возраст: 39 лет";
 document.getElementById('email').innerHTML = `Эл.почта: <a href="mailto:my-wrk-ml@mail.ru">my-wrk-ml@mail.ru</a>`;
 
 document.getElementById('higher-education').innerHTML = "Высшее образование:";
@@ -451,7 +448,6 @@ document.getElementById('professionalskills1').innerHTML = "Professional skills"
 document.getElementById('strongsuit1').innerHTML = "Strong suit";
 document.getElementById('achievements1').innerHTML = "Achievements";
 
-document.getElementById('age').innerHTML = "Age: 39 years";
 document.getElementById('email').innerHTML = `E-mail: <a href="mailto:my-wrk-ml@mail.ru">my-wrk-ml@mail.ru</a>`;
 
 document.getElementById('higher-education').innerHTML = "Higher education:";
